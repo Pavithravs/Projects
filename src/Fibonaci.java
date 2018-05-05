@@ -11,6 +11,7 @@ public class Fibonaci {
             fib1=fib2;
             fib2=fib;
             System.out.println(" "+fib);
+            // console
         }
     }
 }
